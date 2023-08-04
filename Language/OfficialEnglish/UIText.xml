@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="0xrxw6g7dyau52ow4j-n7_l5z1-tips" mz="removecountdownbg">The number of Thinkings that may be done before it is forgotten..</string>
+	<string name="0xrxw6g7dyau52ow4i-n21_q19o-tips" mz="consider">Three Thoughts shards of the same type can be synthesized into their corresponding [color=#0000ff]Rationality[/color]/[color=#ff3300]Perception[/color]/[color=#1bd1a5]Realization[/color] Thought. Thoughts shards will be cleared after each Thinking. Thoughts shards in the Memories slots and acquired [color=#0000ff]Rationality[/color]/[color=#ff3300]Perception[/color]/[color=#1bd1a5]Realization[/color] Thoughts will also be forgotten as Thinkings increase.</string>
+	<string name="0xrxw6g7dyau52ow4i-n69_l5z1" mz="n69">Consume three Thought Shards with the same keyword to gain a whole Thought.
+If no Thought Shards were used, no Thought will be generated.
+After Thinking, all unmemorized Thought Shards will be forgotten.
+Both Memories and Thoughts can be forgotten after multiple Thinkings.</string>
+	<string name="0xrxw6g7dyau52ow4i-n51_l5z1-tips" mz="n51">Automatically generates over time. When their number reaches 40, Thinking will be needed in order to start the auto-generating again, which causes generated thoughts to be forgotten as well. They can also be obtained by Observing, but the same Thought Shard can only be obtained once through Observing.</string>
+	<string name="0xrxw6g7dyau52ow4i-n76_l5z1-tips" mz="n76">Synthesized by three Thought Shards of the same type. This action needs to be performed in the Thought and Thinking menu.</string>
+	<string name="0xrxw6g7qt1w52ow4k-n12_qt1w-tips" mz="removecountdownbg">The number of Thinkings that may be done before it is forgotten.</string>
+	<string name="0xrxw6g7q9xpn4-n316_mctl-tips" mz="n316">Yaoguai in half-human form will face Shapeshifting Tribulation after a period of time. Those who succeed will shapeshift into human forms, while those who fail will be reversed to their original appearance. The stronger they are, the sooner the tribulation would come.</string>
+	<string name="0xrxw6g7mf2o2ovw4-n339_gdpn-tips" mz="n339">Upgrade to Intermediate Main Hall to unlock Treasure Hunting Policy. Once applied, using different methods in Treasure Hunt Events will yield different treasures.</string>
+	<string name="0xrxw6g7mf2o2ovw4-n382_dm2u-tips" mz="goexp">Incorporate: Incorporate all the other sects agencies in this area into your own. Incorporation is available when our followers exceed 70% of the total population.</string>
+	<string name="0xrxw6g7mf2o2ovw4-n251_i8mv-tips" mz="xinyangv">Belief: Belief can be acquired every day in this area. More followers mean more beliefs can be acquired per day. If the stability is lower than Distrusting, hatred will begin accumulating. Belief and Hatred can be gathered by dispatching inner disciples here. Belief and Hatred will be transformed into an equal amount of Inspiration for non-Shendao cultivators.</string>
+	<string name="0xrxw6g7kbt72ovst-n164_w6hh-tips" mz="n164">Switch Yin &amp; Yang
+Inspiration required to learn Fire or Wood manuals is based on Yang Spirit Attainment.
+Inspiration required to learn Metal or Water manuals is based on Yin Spirit Attainment.
+Inspiration required to learn Earth or None manuals is based on the lPrimordial Spirit Attainment.</string>
+	<string name="0xrxw6g7j83c2ovu8-n110_stle-tips" mz="n110">Talk about their weakness to help lower their guard down. When a character becomes cautious, their favor will increase at a slower pace, while any decrease will double. The success rate of any interaction will also be reduced to half.</string>
+	<string name="0xrxw6g78fo852ow71-n312_h4fe-tips" mz="n312">Access to this location has yet to be negociated. The character will be attacked by sages for forced entry.</string>
+	<string name="0xrxw6g7qkn8ovp3-n183_azpm-tips" mz="n183">Sub-Spirits Cost</string>
+	<string name="0xrxw6g7dq2fovp1-n2_dq2f-tips" mz="normal">Any common item can be crafted into an artifact on the crafting table. Depending on the different characteristics of the chosen item, the crafted artifact will have different stats.</string>
+	<string name="0xrxw6g7dq2fovp1-n5_dq2f-tips" mz="doublemake">A Primordial Spirit cultivator can use a sub-spirit to attach their understanding of cultivation to their equipment.</string>
+	<string name="0xrxw6g7jq2v2h-n188_oo6w" mz="n188">Primordial Souls can only be created when one's spell power reaches the highest level. Battle Spells Primordial Souls are used on will be automatically released during battle.</string>
+	<string name="0xrxw6g7shy138-n263_bhyf-tips" mz="n263">When eating, prioritize the consumption of Inedia Pills.</string>
+	<string name="0xrxw6g7shy138-n290_b2ao-tips" mz="n290">Characters with high mental state will gain belief at a faster rate.</string>
+	<string name="0xrxw6g7shy138-n291_b2ao-tips" mz="n291">Characters with more divinity will gain belief at a slower rate.</string>
+	<string name="0xrxw6g7shy138-n292_b2ao-tips" mz="n292">Characters with low distress will gain belief at a faster rate.</string>
+	<string name="0xrxw6g7shy138-n293_b2ao-tips" mz="n293">Characters with a high-tier sacred relic will gain belief at a faster rate.</string>
+	<string name="0xrxw6g7shy138-n344_bj7q-tips" mz="n344">Physique: Different behaviors and eating habits will affect the pet's physique.</string>
+	<string name="0xrxw6g7lfk7a9-n142_kr2v-tips" mz="n142">Yang Attainment
+The inspirations needed for learning fire and wood manuals is determined by Yang Attainment.
+The inspirations needed for learning metal and water manuals is determined by Yin Attainment.
+The inspirations needed for learning earth manuals is determined by the fewer between Yin and Yang Attainment.</string>
+	<string name="0xrxw6g7lfk7a9-n143_kr2v-tips" mz="n143">Yin Attainment
+The inpirations needed for learning fire and wood manuals is determined by Yang Attainment.
+The inpirations needed for learning metal and water manuals is determined by Yin Attainment.
+The inpirations needed for learning earth manuals is determined by the fewer between Yin and Yang Attainment.</string>
+	<string name="0xrxw6g7wtx752ow61-n178_tyhn-tips" mz="n178">Once ticked, this action will become a default operation. When the interact button is pressed, if all the items selected only have this action, this action will happen.</string>
+	<string name="0xrxw6g7n3hgljryz2-n112_n3hg-tips" mz="n112">It is an ancient story, that the tier one golden core is far from the limit for profound sects and peerless gifted cultvators. If you can create a golden core high than tier one, you surely can make an impact on the world!</string>
+	<string name="0xrxw6g7n3hgljrz01-n175_d4xr" mz="n175">Many ancient cultivators have come out, the cultivation realm has become unstable now.
+These ancient sages are skillful and powerful, with unique treasures.
+Conquer them, gain your fame!</string>
+	<string name="0xrxw6g7n3hgljrz01-n146_n3hg" mz="n154">Base Qi</string>
+	<string name="0xrxw6g7n3hgljrz01-n155_n3hg" mz="n155">Shield ability</string>
+	<string name="0xrxw6g7k0zi4b-n170_kqcn-tips" mz="n170">Once ticked, this character will always ride on their spirit contract's beast while moving.</string>
+	<string name="0xrxw6g7f4upcl-n145_h7i1-tips" mz="n145">When enabled, it speeds up game saves, but the size of saved files will be considerable larger.</string>
+	<string name="0xrxw6g7cfyni2-n155_dwgv-tips" mz="n155">Inspiration gain is affected by a character's mental state and their intelligence.</string>
+ The comprehensive summary of the profound ways of heaven made by the orthodox sects, which laid the foundation for all cultivators. Learning the secret manuals of a Supreme Law can increase this value.</string>
+ Unorthodox views on the profound ways of heaven by various sects from their own perspectives. Although defective in some ways, it can serve as a supplement to further enlighten yourself, given that you already have a solid base of orthodox foundation. Learning the secret manuals of Unorthodox Laws can increase this value. In normal circumstances, this value cannot be greater than one fourth of the orthodox value.</string>
+	<string name="0xrxw6g7cfyni2-n171_tc8g-tips" mz="n171">Switch Yin &amp; Yang
+Inspiration required to learn Fire or Wood manuals is based on Yang Spirit Attainment.
+Inspiration required to learn Metal or Water manuals is based on Yin Spirit Attainment.
+Inspiration required to learn Earth or None manuals is based on the Primordial Spirit Attainment.</string>
+</resources>
