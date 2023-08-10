@@ -37,6 +37,7 @@ namespace iguana_acs_fix
             {
                 if ((!config.ContainsKey(kvp.Key) || config[kvp.Key]) && kvp.Value[0] != null)
                 {
+                    KLog.Dbg("iguana_acs_fix: OnLoad submod " + kvp.Key);
                     kvp.Value[0]();
                 }
             }
@@ -60,6 +61,7 @@ namespace iguana_acs_fix
             {
                 if ((!config.ContainsKey(kvp.Key) || config[kvp.Key]) && kvp.Value[1] != null)
                 {
+                    KLog.Dbg("iguana_acs_fix: OnSave submod " + kvp.Key);
                     kvp.Value[1]();
                 }
             }

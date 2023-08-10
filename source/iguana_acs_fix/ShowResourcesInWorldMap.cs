@@ -7,22 +7,32 @@ namespace iguana_acs_fix
 {
     public class ShowResourcesInWorldMap
     {
-        static UI_CTResTreeNode UISpiritStones = new UI_CTResTreeNode();
-        static UI_CTResTreeNode UIInfluence = new UI_CTResTreeNode();
-        static bool createUIResources = false;
+        static UI_CTResTreeNode UISpiritStones = null;
+        static UI_CTResTreeNode UIInfluence = null;
+        static bool UIResourcesCreated = false;
         public static bool enabled = true;
 
         public static void OnLoad()
         {
-            createUIResources = false;
+            UIResourcesCreated = false;
         }
         static void addOrUpdateIcons()
         {
-            if (!enabled) return;
-            if (!createUIResources)
+            if (!enabled)
             {
-                KLog.Dbg("addIcons");
-                createUIResources = true;
+                if (UIResourcesCreated)
+                {
+                    UIResourcesCreated = false;
+                    Wnd_World.Instance.RemoveChild(UISpiritStones);
+                    Wnd_World.Instance.RemoveChild(UIInfluence);
+                    UISpiritStones.Dispose();
+                    UIInfluence.Dispose();
+                }
+                return;
+            }
+            if (!UIResourcesCreated)
+            {
+                UIResourcesCreated = true;
                 UISpiritStones = (UI_CTResTreeNode)UIPackage.CreateObjectFromURL("ui://0xrxw6g7pout2ovw9");
                 UIInfluence = (UI_CTResTreeNode)UIPackage.CreateObjectFromURL("ui://0xrxw6g7pout2ovw9");
                 Wnd_World.Instance.AddChildAt(UIInfluence, Wnd_World.Instance.numChildren);
